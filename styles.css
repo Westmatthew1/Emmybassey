@@ -1,0 +1,19 @@
+footer {
+    color: rgb(167, 19, 187);
+    height: 100px;
+}
+
+#image{
+    height: 90vh;
+    width: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+#image-fluid{
+    border-radius: 10px;
+    
+    
+    float: right;
+ 
+}
